@@ -1,0 +1,7 @@
+2026-10-16T10:00:00Z INFO server started
+2026-10-16T10:00:05Z WARN disk usage at 85%
+2026-10-16T10:01:12Z ERROR failed to connect to database
+2026-10-16T10:01:13Z INFO server restarted
+this line is malformed
+2026-10-16T10:02:00Z ERROR failed to connect to database
+2026-10-16T10:03:00Z ERROR timeout while reading request
